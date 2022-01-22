@@ -1,4 +1,4 @@
-<h1> Hey there! I'm Salva.</h1>
+<h1> Hey there! I'm Salvatore.</h1>
 
 <h2> 👨🏻‍💻 &nbsp;About Me </h2>
 
