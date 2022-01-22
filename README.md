@@ -20,13 +20,12 @@
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-
+  ![Code Time](https://img.shields.io/endpoint?style=flat&url=https://codetime-api.datreks.com/badge/901?logoColor=white%26project=All%26recentMS=NaN%26showProject=false)
 <br/>
 
 <a href="https://github.com/yusril-adr">
   <img height="180em" src="https://github-readme-stats-1bae.vercel.app/api/?username=salvacmp&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" />
   <img height="180em" src="https://github-readme-stats-1bae.vercel.app/api/top-langs/?username=salvacmp&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" />
   <br/>
-  <img height="200em" align="center" src="https://img.shields.io/endpoint?style=flat&url=https://codetime-api.datreks.com/badge/901?logoColor=white%26project=%26recentMS=0%26showProject=false" />
 </a>
 
