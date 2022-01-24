@@ -27,7 +27,7 @@
   <img height="180em" src="https://github-readme-stats-1bae.vercel.app/api/?username=salvacmp&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" />
   <img height="180em" src="https://github-readme-stats-1bae.vercel.app/api/top-langs/?username=salvacmp&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" />
   <br/>
-  [![trophy](https://github-profile-trophy.vercel.app/?username=salvacmp&theme=onedark)]
+  <img height="180em" src="https://github-profile-trophy.vercel.app/?username=salvacmp&theme=onedark" />
 
 </a>
 
