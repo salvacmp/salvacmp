@@ -2,7 +2,7 @@
 
 <h2> 👨🏻‍💻 &nbsp;About Me </h2>
 
-- 🤔 &nbsp; Exploring Vue.JS and React.
+- 🤔 &nbsp;
 
 <h2> 🛠 &nbsp;Tech Stack</h2>
 
